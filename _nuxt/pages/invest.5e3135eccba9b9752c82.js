@@ -1,0 +1,2 @@
+webpackJsonp([1],{NyBl:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r=n("mUdE"),l=n("VU/8"),u=l(null,r.a,!1,null,null,null);t.default=u.exports},mUdE:function(e,t,n){"use strict";var r=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",[n("h1",[e._v("invest")]),n("router-link",{attrs:{to:"/"}},[e._v("Home")])],1)},l=[],u={render:r,staticRenderFns:l};t.a=u}});
+//# sourceMappingURL=invest.5e3135eccba9b9752c82.js.map
